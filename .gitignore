@@ -1,0 +1,7 @@
+/*.elf
+/.settings/
+/.cproject
+/.project
+/build/
+/sockme.cpp
+/*.cia
